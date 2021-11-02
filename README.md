@@ -1,3 +1,5 @@
+> Want to ask me something? Write [here](https://github.com/Tapeline/Tapeline/issues/new)
+
 ### Hi! 👋
 Welcome to my Github Page. Here are some repos for you to see:
 (`RUS` mark - project, useful only for russian audience,
