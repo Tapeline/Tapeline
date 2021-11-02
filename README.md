@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi! 👋
+Welcome to my Github Page. Here are some repos for you to see:
+(`RUS` mark - project, useful only for russian audience,
+`GLOBAL`, or no mark - useful for all)
+### Developing:
+- [QuarkJ](http://github.com/Tapeline/quark) `GLOBAL`
 
-<!--
-**Tapeline/Tapeline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Done projects:
+- [Как не спамить в техподдержку](http://github.com/Tapeline/how-to-not-spam-to-support) `RUS`
 
-Here are some ideas to get you started:
+### Freezed projects (but not abandoned!):
+- [LayoutFlipper](http://github.com/Tapeline/quark) `RUS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cancelled projects:
+- [PyTextQuest](http://github.com/Tapeline/pytextquest) `RUS description`
