@@ -13,7 +13,7 @@ Welcome to my Github Page. Here are some repos for you to see:
 - [PyTLPermissons](http://github.com/Tapeline/pytlpermissions) `GLOBAL`
 
 ### Freezed projects (but not abandoned!):
-- [LayoutFlipper](http://github.com/Tapeline/quark) `RUS`
+- [LayoutFlipper](http://github.com/Tapeline/layoutflipper) `RUS`
 
 ### Cancelled projects:
 - [PyTextQuest](http://github.com/Tapeline/pytextquest) `RUS description`
