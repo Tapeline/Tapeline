@@ -1,4 +1,5 @@
 > Want to ask me something? Write [here](https://github.com/Tapeline/Tapeline/issues/new)
+> Blog: [http://tapeline.github.io/](http://tapeline.github.io/)
 
 ### Hi! 👋
 Welcome to my Github Page. Here are some repos for you to see:
@@ -7,13 +8,9 @@ Welcome to my Github Page. Here are some repos for you to see:
 ### Developing: none
 
 ### Done projects:
-- [Как не спамить в техподдержку](http://github.com/Tapeline/how-to-not-spam-to-support) `RUS`
 - [QuarkJ](http://github.com/Tapeline/quark) `GLOBAL`
 - [PyTLTerminal](http://github.com/Tapeline/pytlterminal) `GLOBAL`
 - [PyTLPermissons](http://github.com/Tapeline/pytlpermissions) `GLOBAL`
 
 ### Freezed projects (but not abandoned!):
 - [LayoutFlipper](http://github.com/Tapeline/layoutflipper) `RUS`
-
-### Cancelled projects:
-- [PyTextQuest](http://github.com/Tapeline/pytextquest) `RUS description`
