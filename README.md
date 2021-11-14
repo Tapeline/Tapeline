@@ -1,5 +1,9 @@
 > Want to ask me something? Write [here](https://github.com/Tapeline/Tapeline/issues/new)
+
 > Blog: [http://tapeline.github.io/](http://tapeline.github.io/)
+
+> Support me: [DonationAlerts](https://www.donationalerts.com/r/tapeline)
+
 
 ### Hi! 👋
 Welcome to my Github Page. Here are some repos for you to see:
