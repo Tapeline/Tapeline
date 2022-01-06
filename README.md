@@ -10,7 +10,7 @@ Welcome to my Github Page. Here are some repos for you to see:
 (`RUS` mark - project, useful only for russian audience,
 `GLOBAL`, or no mark - useful for all)
 ### Developing:
-- [QuarkJ](http://github.com/Tapeline/quark) `GLOBAL`
+- [QuailJ](http://github.com/Tapeline/quark) `GLOBAL`
 
 ### Done projects:
 - [PyTLTerminal](http://github.com/Tapeline/pytlterminal) `GLOBAL`
