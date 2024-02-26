@@ -1,6 +1,7 @@
 > Want to ask me something? Write [here](https://github.com/Tapeline/Tapeline/issues/new)
 
 > Blog: [http://tapeline.github.io/](http://tapeline.github.io/)
+> BEWARE: Support does not work!
 
 
 
