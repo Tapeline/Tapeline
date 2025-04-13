@@ -7,7 +7,7 @@ I'm a contributor to various OSS projects like [wemake-python-styleguide](https:
 <div style="display: flex; width: 100%">
 <img style="height: 180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tapeline&theme=transparent"/>
 <img style="height: 180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tapeline&theme=transparent"/>
-<img src="https://streak-stats.demolab.com/?user=Tapeline&theme=github-dark-blue&border=transparent&stroke=2e343b&currStreakLabel=77909c&sideLabels=77909c&card_height=180"/>
+<img src="https://streak-stats.demolab.com/?user=Tapeline&theme=transparent&border=transparent&stroke=2e343b&currStreakLabel=77909c&sideLabels=77909c&card_height=180"/>
 </div>
 
 #### Tech I actively use (clickable)
