@@ -24,6 +24,7 @@ I'm a contributor to various OSS projects like [wemake-python-styleguide](https:
 <a href="https://github.com/wemake-services/wemake-python-styleguide/"><img src="https://raw.githubusercontent.com/wemake-services/wemake-python-styleguide/master/docs/_static/logo.png" height="48"/></a>
 <a href="https://github.com/reagento/dishka/"><img src="https://avatars.githubusercontent.com/u/123208516" height="48"/></a>
 <a href="https://mypy-lang.org/"><img src="https://matangover.gallerycdn.vsassets.io/extensions/matangover/mypy/0.4.1/1733578029898/Microsoft.VisualStudio.Services.Icons.Default" height="48"></a>
+<a href="https://niisi.ru/kumir"><img src="https://alt-gnome.wiki/kumir/kumir-logo.svg" height="48"></a>
 </div>
 <br>
 
