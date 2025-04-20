@@ -19,6 +19,7 @@ I'm a contributor to various OSS projects like [wemake-python-styleguide](https:
 <a href="https://niisi.ru/kumir"><img src="https://alt-gnome.wiki/kumir/kumir-logo.svg" height="48"></a>
 <a href="https://djangoproject.com"><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" width="48"/></a>
 <a href="https://litestar.dev"><img src="https://litestar.dev/_static/logo.svg" width="48"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48"/></a>
 <a href="https://pytest.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="48"/></a>
 <a href="https://github.com/reagento/dishka/"><img src="https://avatars.githubusercontent.com/u/123208516" height="48"/></a>
 <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48"/></a>
